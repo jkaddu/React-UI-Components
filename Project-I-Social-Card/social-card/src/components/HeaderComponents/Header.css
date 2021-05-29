@@ -1,1 +1,27 @@
 /* All styles for your header Components live here */
+.headerTitle {
+  display: flex;
+  align-items: center;
+  width: 70%;
+  margin: 0 auto;
+}
+.headerTitle h1 {
+  padding-right: 1%;
+}
+.headerTitle a {
+  padding-right: 1%;
+  color: gray;
+}
+.headerTitle p {
+  padding-right: 1%;
+  color: gray;
+}
+.headerContent {
+  width: 50%;
+  padding: 1% 0;
+  margin: 0 auto;
+}
+.lambda {
+  width: 40%;
+  margin-left: 55%;
+}

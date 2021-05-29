@@ -1,1 +1,13 @@
 /* All styles for your Card Components live here */
+.card {
+  width: 48%;
+  margin: 0 auto;
+  padding: 0 0 1% 2%;
+}
+.card-banner {
+  display: flex;
+  justify-content: center;
+}
+.banner {
+  width: 50%;
+}
